@@ -1,6 +1,13 @@
 
 # 🔐 Password Security Analyzer
 
+## 🚀 Live Demo
+
+Try the Password Security Analyzer online:
+
+[Open Password Security Analyzer](https://password-security-analyzer-b8yskvzdveeehksspeu2j5.streamlit.app/)
+
+
 ## About the Project
 Password Security Analyzer is a beginner-friendly Python project built with Streamlit. It helps users understand basic password security by checking passwords against different security criteria.
 
